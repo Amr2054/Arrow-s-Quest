@@ -10,7 +10,7 @@ ArrayList<ballon> ballonList1;
 ArrayList<ballon> ballonList2;
 int layerIndex= 0;
 int layerDelay=2;
-int c1 =360, mode;
+int c1 =1000, mode;
 
 void setup() {
   size(1920, 1080);
