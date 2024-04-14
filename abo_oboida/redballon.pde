@@ -11,7 +11,7 @@ public class redBallon extends ballon {
   }
  
  public void update() {
-    if (y+height/24>0) {
+    if (y+height/24-123>0) {
       y= y-8;
     } else y=height+height/24;
   }

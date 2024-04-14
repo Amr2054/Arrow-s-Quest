@@ -1,5 +1,5 @@
 import java.util.Random;
-PImage sky, scroll, skymenu, skyrules, img1, img2;
+PImage sky, scroll, skymenu, skyrules,score, img1, img2 , arr;
 PImage[] layer=new PImage[22];
 final int STARTMENU=0;
 final int RULESMENU=1;
@@ -8,6 +8,7 @@ final int LEVEL2=3;
 final int SCOREMENU=4;
 ArrayList<ballon> ballonList1;
 ArrayList<ballon> ballonList2;
+ArrayList<PVector> arrows = new ArrayList<PVector>();
 int layerIndex= 0;
 int layerDelay=2;
 int c1 =1000, mode;
@@ -23,6 +24,7 @@ void setup() {
   frameRate(60);
   img1 =loadImage("test2.png");
   img2 =loadImage("test3.png");
+  arr = loadImage("ar.png");
   Random random = new Random();
   ballonList1 = new ArrayList<ballon>();
   ballonList2 = new ArrayList<ballon>();
@@ -60,9 +62,10 @@ else if(mode==RULESMENU){
 }
 else if(mode==LEVEL1){
   levels();
-  scoreboard();
   charanim();
+  arrow();
   ballonv1();
+ scoreboard();
 
     
 

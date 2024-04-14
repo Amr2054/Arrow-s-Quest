@@ -4,3 +4,10 @@ void ballonv1(){
     a.show();
   }
 }
+
+  void level1clicks(){
+  if (arrows.size() < 15) {
+    arrows.add(new PVector(160, mouseY));
+  }
+}
+ 
