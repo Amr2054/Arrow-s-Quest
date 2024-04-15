@@ -11,15 +11,17 @@ public class redBallon extends ballon {
   }
  
  public void update() {
-    if (y+height/24>0) {
-      y= y-8;
+    if (y+height/24-123>0) {
+      y= y-6;
     } else y=height+height/24;
   }
   
   
   public void show() {
-
+    if(visible){
     imageMode(CENTER);
     image(img1, x, y, width/14, height/14);
   }
+  
+}
 }
