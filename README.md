@@ -2,17 +2,17 @@
 Welcome to Arrows's Quest! In this game, players step into the shoes of a skilled archer with one simple objective: pop as many balloons as possible. With precise aim and timing, players will unleash arrows to burst balloons that drift across the screen. But beware, as the challenge ramps up with faster balloon speeds.
 # # 
 # **Table of Content:**  
-[1-How to Play](https://https://vscode.dev/github/Amr2054/Task-1/blob/main/README.md#L11)  
-[2-Game Features  ](https://vscode.dev/github/Amr2054/Task-1/blob/main/README.md#L19)  
-[3-Game Design (Class Hierarchy) ](https://https://vscode.dev/github/Amr2054/Task-1/blob/main/README.md#L30)   
-[4-Challenges of Development](https://vscode.dev/github/Amr2054/Task-1/blob/main/README.md#L36)  
-[5-Credits](https://)
+1-How to Play  
+2-Game Features      
+3-Game Design (Class Hierarchy)   
+4-Challenges of Development   
+5-Credits
 # #
 # How to Play 
 A-LEFT Click : To shoot arrows.   
 ![alt text](image.png)
 B-RIGHT Click : To reload arrows.
-![alt text](image-2.png)
+![alt text](image-2.png)  
 C-Mouse Movement : To move the Character.  
 Use these Controls to shoot arrows while trying to adjust your timing to pop all the balloons with the least amount of arrows to gain the highest score.
 # #
