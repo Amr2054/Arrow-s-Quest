@@ -5,7 +5,8 @@ Welcome to Arrows's Quest! In this game, players step into the shoes of a skille
 1-How to Play  
 2-Game Features      
 3-Game Design (Class Hierarchy)   
-4-Challenges of Development   
+4-Challenges of Development  
+5-UML Diagram   
 5-Credits
 # #
 # How to Play 
@@ -103,6 +104,9 @@ return x1-35>width;
 2-Implementing the reload mechanism of arrows.  
 3-Balloon popping upon contact with the arrow.
 # #
+# UML Diagram
+![alt text](<UML Diagram.svg>)
+
 # Credits
 **Sound Effects :**  
 [Sound Effect from Pixabay]: Arrow shooting & Reload sound effect.  
