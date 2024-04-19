@@ -7,7 +7,7 @@ Welcome to Arrows's Quest! In this game, players step into the shoes of a skille
 3-Game Design (Class Hierarchy)   
 4-Challenges of Development  
 5-UML Diagram   
-5-Credits
+6-Credits
 # #
 # How to Play 
 A-LEFT Click : To shoot arrows.   
