@@ -12,7 +12,7 @@ Welcome to Arrows's Quest! In this game, players step into the shoes of a skille
 A-LEFT Click : To shoot arrows.   
 ![alt text](image.png)
 B-RIGHT Click : To reload arrows.
-![alt text](image-2.png)  
+![alt text](image-2.png)    
 C-Mouse Movement : To move the Character.  
 Use these Controls to shoot arrows while trying to adjust your timing to pop all the balloons with the least amount of arrows to gain the highest score.
 # #
