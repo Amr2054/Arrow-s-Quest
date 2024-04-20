@@ -100,7 +100,7 @@ return x1-35>width;
 ```
 # #
 # Challenges of Development   
-1-Randomizing the order of balloons in level 2 and how to store inside 1 arraylist two data types which are redBallons and yellowBallons.  
+1-Randomizing the order of balloons in level 2 and how to store inside 1 arraylist two data types which are redBalloons and yellowBalloons.  
 2-Implementing the reload mechanism of arrows.  
 3-Balloon popping upon contact with the arrow.
 # #
