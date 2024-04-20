@@ -23,7 +23,7 @@ Use these Controls to shoot arrows while trying to adjust your timing to pop all
 15 Red Balloons Aligned next to each other moving with constant speed.  
 **Level 2 :**  
 20 Arrow.  
-15 Random Balloon including 3 yellow balloons moving with irregular speed and acceleration.  
+15 Random Balloons including 3 yellow balloons moving with irregular speed and acceleration.  
  **Win / Lose :**  
  Win : When player succeed in popping 15 balloons without running out of arrows after winning level 1 & 2 you will have level 1 & 2 Score and the total score.  
  Lose : When player run out of arrows before popping all of the balloons offering the player to retry the game.
